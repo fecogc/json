@@ -1,0 +1,1019 @@
+{
+    "id": "86503836344258560",
+    "name": "All Day Menu",
+    "note": null,
+    "allergy": false,
+    "is_default": true,
+    "foodCategories": {
+      "data": [
+        {
+          "id": "87171707026149376",
+          "name": "Salads",
+          "url": "salads",
+          "items": {
+            "data": [
+              {
+                "id": "87166799308787712",
+                "name": "Italian Salad",
+                "url": "italian-salad",
+                "price": 3400,
+                "description": "Grilled chicken, avocado, mix lettuce, sliced almonds, tomatoes and olives",
+                "has_modifier": true,
+                "photo": "https://chatfood.imgix.net/static/healthy-bites/menu/italian-salad.jpg",
+                "photo_high": "https://chatfood.imgix.net/static/healthy-bites/menu/italian-salad.jpg",
+                "note": "",
+                "customizations": {
+                  "data": [
+                    {
+                      "id": "87169217996132352",
+                      "name": "Extras",
+                      "min_selection": 0,
+                      "max_selection": 10,
+                      "select_type": "checkbox",
+                      "sort": 1,
+                      "modifiers": {
+                        "data": [
+                          {
+                            "id": "87168101757620224",
+                            "name": "Parmesan",
+                            "price": 600,
+                            "description": null
+                          },
+                          {
+                            "id": "87168173295669248",
+                            "name": "Chicken",
+                            "price": 512,
+                            "description": null
+                          },
+                          {
+                            "id": "87168765334261760",
+                            "name": "Chia Seeds",
+                            "price": 525,
+                            "description": null
+                          },
+                          {
+                            "id": "87168805050126336",
+                            "name": "Feta",
+                            "price": 630,
+                            "description": null
+                          },
+                          {
+                            "id": "87168875212443648",
+                            "name": "Flax Seeds",
+                            "price": 525,
+                            "description": null
+                          },
+                          {
+                            "id": "87168933186113536",
+                            "name": "Lentils",
+                            "price": 500,
+                            "description": null
+                          },
+                          {
+                            "id": "87168986579603456",
+                            "name": "Pistachio",
+                            "price": 300,
+                            "description": null
+                          },
+                          {
+                            "id": "87169046411350016",
+                            "name": "Walnuts",
+                            "price": 300,
+                            "description": null
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "87166977088557056",
+                "name": "Lentil Salad",
+                "url": "lentil-salad",
+                "price": 3500,
+                "description": "Lentils, cherry tomato, grilled zucchini, mint, feta cheese, roasted capsicums, raisins and mixed lettuce",
+                "has_modifier": true,
+                "photo": "https://chatfood.imgix.net/static/healthy-bites/menu/lentil-salad.jpeg",
+                "photo_high": "https://chatfood.imgix.net/static/healthy-bites/menu/lentil-salad.jpeg",
+                "note": "",
+                "customizations": {
+                  "data": [
+                    {
+                      "id": "87169217996132352",
+                      "name": "Extras",
+                      "min_selection": 0,
+                      "max_selection": 6,
+                      "select_type": "multiple",
+                      "sort": 1,
+                      "modifiers": {
+                        "data": [
+                          {
+                            "id": "87168101757620224",
+                            "name": "Parmesan",
+                            "price": 600,
+                            "description": null
+                          },
+                          {
+                            "id": "87168173295669248",
+                            "name": "Chicken",
+                            "price": 512,
+                            "description": null
+                          },
+                          {
+                            "id": "87168765334261760",
+                            "name": "Chia Seeds",
+                            "price": 525,
+                            "description": null
+                          },
+                          {
+                            "id": "87168805050126336",
+                            "name": "Feta",
+                            "price": 630,
+                            "description": null
+                          },
+                          {
+                            "id": "87168875212443648",
+                            "name": "Flax Seeds",
+                            "price": 525,
+                            "description": null
+                          },
+                          {
+                            "id": "87168933186113536",
+                            "name": "Lentils",
+                            "price": 500,
+                            "description": null
+                          },
+                          {
+                            "id": "87168986579603456",
+                            "name": "Pistachio",
+                            "price": 300,
+                            "description": null
+                          },
+                          {
+                            "id": "87169046411350016",
+                            "name": "Walnuts",
+                            "price": 300,
+                            "description": null
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "87167268185837568",
+                "name": "Quinoa Tabbouleh Salad",
+                "url": "quinoa-tabbouleh-salad",
+                "price": 3300,
+                "description": "Quinoa, tomato, parsley, spring onion and pomegranate seeds",
+                "has_modifier": true,
+                "photo": "https://chatfood.imgix.net/static/healthy-bites/menu/quinoa-tabbouleh-salad.jpeg",
+                "photo_high": "https://chatfood.imgix.net/static/healthy-bites/menu/quinoa-tabbouleh-salad.jpeg",
+                "note": "",
+                "customizations": {
+                  "data": [
+                    {
+                      "id": "87169755726876672",
+                      "name": "Side Options",
+                      "min_selection": 1,
+                      "max_selection": 1,
+                      "select_type": "radio",
+                      "sort": 1,
+                      "modifiers": {
+                        "data": [
+                          {
+                            "id": "87169969003040768",
+                            "name": "Cooked Quinoa",
+                            "price": 455,
+                            "description": null
+                          },
+                          {
+                            "id": "87170068118638592",
+                            "name": "French Fries",
+                            "price": 100,
+                            "description": null
+                          },
+                          {
+                            "id": "87170102151221248",
+                            "name": "Side Salad",
+                            "price": 800,
+                            "description": null
+                          },
+                          {
+                            "id": "87169925692657664",
+                            "name": "Steamed Rice",
+                            "price": 670,
+                            "description": null
+                          },
+                          {
+                            "id": "87170025798111232",
+                            "name": "Sweet Potato Fries",
+                            "price": 1200,
+                            "description": null
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "id": "87169647375421440",
+                      "name": "Add ons",
+                      "min_selection": 1,
+                      "max_selection": 3,
+                      "select_type": "checkbox",
+                      "sort": 2,
+                      "modifiers": {
+                        "data": [
+                          {
+                            "id": "87168325079142400",
+                            "name": "Avocado",
+                            "price": 630,
+                            "description": null
+                          },
+                          {
+                            "id": "87168409132994560",
+                            "name": "Swiss Cheese",
+                            "price": 600,
+                            "description": null
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "id": "87169217996132352",
+                      "name": "Extras",
+                      "min_selection": 0,
+                      "max_selection": 10,
+                      "select_type": "checkbox",
+                      "sort": 3,
+                      "modifiers": {
+                        "data": [
+                          {
+                            "id": "87168101757620224",
+                            "name": "Parmesan",
+                            "price": 600,
+                            "description": null
+                          },
+                          {
+                            "id": "87168173295669248",
+                            "name": "Chicken",
+                            "price": 512,
+                            "description": null
+                          },
+                          {
+                            "id": "87168765334261760",
+                            "name": "Chia Seeds",
+                            "price": 525,
+                            "description": null
+                          },
+                          {
+                            "id": "87168805050126336",
+                            "name": "Feta",
+                            "price": 630,
+                            "description": null
+                          },
+                          {
+                            "id": "87168875212443648",
+                            "name": "Flax Seeds",
+                            "price": 525,
+                            "description": null
+                          },
+                          {
+                            "id": "87168933186113536",
+                            "name": "Lentils",
+                            "price": 500,
+                            "description": null
+                          },
+                          {
+                            "id": "87168986579603456",
+                            "name": "Pistachio",
+                            "price": 300,
+                            "description": null
+                          },
+                          {
+                            "id": "87169046411350016",
+                            "name": "Walnuts",
+                            "price": 300,
+                            "description": null
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "87164225486721024",
+                "name": "Tuna Salad",
+                "url": "tuna-salad",
+                "price": 3300,
+                "description": "Preserved tuna, iceberg lettuce, avocado, cherry tomatoes and cucumber",
+                "has_modifier": true,
+                "photo": "https://chatfood.imgix.net/static/healthy-bites/menu/tuna-salad.jpg",
+                "photo_high": "https://chatfood.imgix.net/static/healthy-bites/menu/tuna-salad.jpg",
+                "note": "",
+                "customizations": {
+                  "data": [
+                    {
+                      "id": "87169217996132352",
+                      "name": "Extras",
+                      "min_selection": 0,
+                      "max_selection": 5,
+                      "select_type": "multiple",
+                      "sort": 1,
+                      "modifiers": {
+                        "data": [
+                          {
+                            "id": "87168101757620224",
+                            "name": "Parmesan",
+                            "price": 600,
+                            "description": null
+                          },
+                          {
+                            "id": "87168173295669248",
+                            "name": "Chicken",
+                            "price": 512,
+                            "description": null
+                          },
+                          {
+                            "id": "87168765334261760",
+                            "name": "Chia Seeds",
+                            "price": 525,
+                            "description": null
+                          },
+                          {
+                            "id": "87168805050126336",
+                            "name": "Feta",
+                            "price": 630,
+                            "description": null
+                          },
+                          {
+                            "id": "87168875212443648",
+                            "name": "Flax Seeds",
+                            "price": 525,
+                            "description": null
+                          },
+                          {
+                            "id": "87168933186113536",
+                            "name": "Lentils",
+                            "price": 500,
+                            "description": null
+                          },
+                          {
+                            "id": "87168986579603456",
+                            "name": "Pistachio",
+                            "price": 300,
+                            "description": null
+                          },
+                          {
+                            "id": "87169046411350016",
+                            "name": "Walnuts",
+                            "price": 300,
+                            "description": null
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "id": "87169755726876672",
+                      "name": "Side Options",
+                      "min_selection": 1,
+                      "max_selection": 5,
+                      "select_type": "checkbox",
+                      "sort": 2,
+                      "modifiers": {
+                        "data": [
+                          {
+                            "id": "87169969003040768",
+                            "name": "Cooked Quinoa",
+                            "price": 455,
+                            "description": null
+                          },
+                          {
+                            "id": "87170068118638592",
+                            "name": "French Fries",
+                            "price": 100,
+                            "description": null
+                          },
+                          {
+                            "id": "87170102151221248",
+                            "name": "Side Salad",
+                            "price": 800,
+                            "description": null
+                          },
+                          {
+                            "id": "87169925692657664",
+                            "name": "Steamed Rice",
+                            "price": 670,
+                            "description": null
+                          },
+                          {
+                            "id": "87170025798111232",
+                            "name": "Sweet Potato Fries",
+                            "price": 1200,
+                            "description": null
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "schedules": {
+            "data": []
+          }
+        },
+        {
+          "id": "87171809941786624",
+          "name": "Main Course",
+          "url": "main-course",
+          "items": {
+            "data": [
+              {
+                "id": "87167371063726080",
+                "name": "Salmon Teriyaki",
+                "url": "salmon-teriyaki",
+                "price": 4800,
+                "description": "Grilled salmon, teriyaki sauce, rice",
+                "has_modifier": true,
+                "photo": "https://chatfood.imgix.net/static/healthy-bites/menu/salmon-teriyaki.jpeg",
+                "photo_high": "https://chatfood.imgix.net/static/healthy-bites/menu/salmon-teriyaki.jpeg",
+                "note": "",
+                "customizations": {
+                  "data": [
+                    {
+                      "id": "87169755726876672",
+                      "name": "Side Options",
+                      "min_selection": 1,
+                      "max_selection": 2,
+                      "select_type": "checkbox",
+                      "sort": 1,
+                      "modifiers": {
+                        "data": [
+                          {
+                            "id": "87169969003040768",
+                            "name": "Cooked Quinoa",
+                            "price": 455,
+                            "description": null
+                          },
+                          {
+                            "id": "87170068118638592",
+                            "name": "French Fries",
+                            "price": 100,
+                            "description": null
+                          },
+                          {
+                            "id": "87170102151221248",
+                            "name": "Side Salad",
+                            "price": 800,
+                            "description": null
+                          },
+                          {
+                            "id": "87169925692657664",
+                            "name": "Steamed Rice",
+                            "price": 670,
+                            "description": null
+                          },
+                          {
+                            "id": "87170025798111232",
+                            "name": "Sweet Potato Fries",
+                            "price": 1200,
+                            "description": null
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "87167492086173696",
+                "name": "Thai Green Curry",
+                "url": "thai-green-curry",
+                "price": 4750,
+                "description": "Chicken, eggplant, zucchini, coconut curryserved with quinoa",
+                "has_modifier": true,
+                "photo": "https://chatfood.imgix.net/static/healthy-bites/menu/thai-green-curry.jpeg",
+                "photo_high": "https://chatfood.imgix.net/static/healthy-bites/menu/thai-green-curry.jpeg",
+                "note": "",
+                "customizations": {
+                  "data": [
+                    {
+                      "id": "87169755726876672",
+                      "name": "Side Options",
+                      "min_selection": 1,
+                      "max_selection": 1,
+                      "select_type": "radio",
+                      "sort": 1,
+                      "modifiers": {
+                        "data": [
+                          {
+                            "id": "87169969003040768",
+                            "name": "Cooked Quinoa",
+                            "price": 455,
+                            "description": null
+                          },
+                          {
+                            "id": "87170068118638592",
+                            "name": "French Fries",
+                            "price": 100,
+                            "description": null
+                          },
+                          {
+                            "id": "87170102151221248",
+                            "name": "Side Salad",
+                            "price": 800,
+                            "description": null
+                          },
+                          {
+                            "id": "87169925692657664",
+                            "name": "Steamed Rice",
+                            "price": 670,
+                            "description": null
+                          },
+                          {
+                            "id": "87170025798111232",
+                            "name": "Sweet Potato Fries",
+                            "price": 1200,
+                            "description": null
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "1064882474",
+                "name": "Asparagus And Mushroom Risotto",
+                "url": "asparagus-and-mushroom-risotto",
+                "price": 3500,
+                "description": "",
+                "has_modifier": true,
+                "photo": "https://chatfood.imgix.net/static/healthy-bites/menu/HB_Main_03.jpg",
+                "photo_high": "https://chatfood.imgix.net/static/healthy-bites/menu/HB_Main_03.jpg",
+                "note": "",
+                "customizations": {
+                  "data": [
+                    {
+                      "id": "2102655311",
+                      "name": "Add Ons",
+                      "min_selection": 0,
+                      "max_selection": 4,
+                      "select_type": "checkbox",
+                      "sort": 1,
+                      "modifiers": {
+                        "data": [
+                          {
+                            "id": "1947030882",
+                            "name": "Asparagus",
+                            "price": 600,
+                            "description": ""
+                          },
+                          {
+                            "id": "3887162797",
+                            "name": "Chicken",
+                            "price": 1260,
+                            "description": ""
+                          },
+                          {
+                            "id": "1824828889",
+                            "name": "Mushrooms",
+                            "price": 400,
+                            "description": ""
+                          },
+                          {
+                            "id": "3172115793",
+                            "name": "Parmesan",
+                            "price": 600,
+                            "description": null
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            ]
+          },
+          "schedules": {
+            "data": []
+          }
+        },
+        {
+          "id": "87171783840632832",
+          "name": "Sandwiches & Wraps",
+          "url": "sandwiches-wraps",
+          "items": {
+            "data": [
+              {
+                "id": "87166647927967744",
+                "name": "Chicken & Avocado Burger",
+                "url": "chicken-avocado-burger",
+                "price": 3500,
+                "description": "Grilled chicken, avocado, tomato, iceberg lettuce and mayonnaise",
+                "has_modifier": true,
+                "photo": "https://chatfood.imgix.net/static/healthy-bites/menu/chicken-avocado-burger.jpg",
+                "photo_high": "https://chatfood.imgix.net/static/healthy-bites/menu/chicken-avocado-burger.jpg",
+                "note": "",
+                "customizations": {
+                  "data": [
+                    {
+                      "id": "87169217996132352",
+                      "name": "Extras",
+                      "min_selection": 0,
+                      "max_selection": 3,
+                      "select_type": "multiple",
+                      "sort": 1,
+                      "modifiers": {
+                        "data": [
+                          {
+                            "id": "87168101757620224",
+                            "name": "Parmesan",
+                            "price": 600,
+                            "description": null
+                          },
+                          {
+                            "id": "87168173295669248",
+                            "name": "Chicken",
+                            "price": 512,
+                            "description": null
+                          },
+                          {
+                            "id": "87168765334261760",
+                            "name": "Chia Seeds",
+                            "price": 525,
+                            "description": null
+                          },
+                          {
+                            "id": "87168805050126336",
+                            "name": "Feta",
+                            "price": 630,
+                            "description": null
+                          },
+                          {
+                            "id": "87168875212443648",
+                            "name": "Flax Seeds",
+                            "price": 525,
+                            "description": null
+                          },
+                          {
+                            "id": "87168933186113536",
+                            "name": "Lentils",
+                            "price": 500,
+                            "description": null
+                          },
+                          {
+                            "id": "87168986579603456",
+                            "name": "Pistachio",
+                            "price": 300,
+                            "description": null
+                          },
+                          {
+                            "id": "87169046411350016",
+                            "name": "Walnuts",
+                            "price": 300,
+                            "description": null
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "id": "87169755726876672",
+                      "name": "Side Options",
+                      "min_selection": 1,
+                      "max_selection": 2,
+                      "select_type": "checkbox",
+                      "sort": 2,
+                      "modifiers": {
+                        "data": [
+                          {
+                            "id": "87169969003040768",
+                            "name": "Cooked Quinoa",
+                            "price": 455,
+                            "description": null
+                          },
+                          {
+                            "id": "87170068118638592",
+                            "name": "French Fries",
+                            "price": 100,
+                            "description": null
+                          },
+                          {
+                            "id": "87170102151221248",
+                            "name": "Side Salad",
+                            "price": 800,
+                            "description": null
+                          },
+                          {
+                            "id": "87169925692657664",
+                            "name": "Steamed Rice",
+                            "price": 670,
+                            "description": null
+                          },
+                          {
+                            "id": "87170025798111232",
+                            "name": "Sweet Potato Fries",
+                            "price": 1200,
+                            "description": null
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "87167595370909696",
+                "name": "Tikka Burger",
+                "url": "tikka-burger",
+                "price": 3500,
+                "description": "Tikka marinated grilled chicken, gherkins, sundried tomatoes, iceberg lettuce, red onion and aioli",
+                "has_modifier": true,
+                "photo": "https://chatfood.imgix.net/static/healthy-bites/menu/tikka-burger.jpg",
+                "photo_high": "https://chatfood.imgix.net/static/healthy-bites/menu/tikka-burger.jpg",
+                "note": "",
+                "customizations": {
+                  "data": [
+                    {
+                      "id": "87169446308876288",
+                      "name": "Bread Option",
+                      "min_selection": 1,
+                      "max_selection": 1,
+                      "select_type": "radio",
+                      "sort": 1,
+                      "modifiers": {
+                        "data": [
+                          {
+                            "id": "87168667271434240",
+                            "name": "Sourdough",
+                            "price": 250,
+                            "description": null
+                          },
+                          {
+                            "id": "87168617145307136",
+                            "name": "Whole Wheat Bagel",
+                            "price": 600,
+                            "description": null
+                          },
+                          {
+                            "id": "87168502540144640",
+                            "name": "Wrap",
+                            "price": 0,
+                            "description": null
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "id": "87169647375421440",
+                      "name": "Add ons",
+                      "min_selection": 1,
+                      "max_selection": 3,
+                      "select_type": "multiple",
+                      "sort": 2,
+                      "modifiers": {
+                        "data": [
+                          {
+                            "id": "87168325079142400",
+                            "name": "Avocado",
+                            "price": 630,
+                            "description": null
+                          },
+                          {
+                            "id": "87168409132994560",
+                            "name": "Swiss Cheese",
+                            "price": 600,
+                            "description": null
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "id": "155687713452986368",
+                      "name": "Choose Your Bread",
+                      "min_selection": 1,
+                      "max_selection": 1,
+                      "select_type": "radio",
+                      "sort": 3,
+                      "modifiers": {
+                        "data": [
+                          {
+                            "id": "155686581917982720",
+                            "name": "White Bun",
+                            "price": 0,
+                            "description": ""
+                          },
+                          {
+                            "id": "155686701015109632",
+                            "name": "Brown Bread",
+                            "price": 500,
+                            "description": ""
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "160341182214443008",
+                "name": "Cheese Burger",
+                "url": "cheese-burger",
+                "price": 2000,
+                "description": "sdsd",
+                "has_modifier": false,
+                "photo": null,
+                "photo_high": null,
+                "note": "",
+                "customizations": {
+                  "data": []
+                }
+              }
+            ]
+          },
+          "schedules": {
+            "data": []
+          }
+        },
+        {
+          "id": "87171835241828352",
+          "name": "Desserts",
+          "url": "desserts",
+          "items": {
+            "data": [
+              {
+                "id": "87166723991670784",
+                "name": "Chocolate Cake",
+                "url": "chocolate-cake",
+                "price": 1800,
+                "description": null,
+                "has_modifier": true,
+                "photo": "https://chatfood.imgix.net/static/healthy-bites/menu/chocolate-cake.jpg",
+                "photo_high": "https://chatfood.imgix.net/static/healthy-bites/menu/chocolate-cake.jpg",
+                "note": "",
+                "customizations": {
+                  "data": [
+                    {
+                      "id": "102040176674742272",
+                      "name": "ADD ON",
+                      "min_selection": 0,
+                      "max_selection": 5,
+                      "select_type": "multiple",
+                      "sort": 1,
+                      "modifiers": {
+                        "data": [
+                          {
+                            "id": "1599231584",
+                            "name": "Beetroot Hummus",
+                            "price": 500,
+                            "description": ""
+                          },
+                          {
+                            "id": "2628366532",
+                            "name": "Bagel",
+                            "price": 0,
+                            "description": ""
+                          },
+                          {
+                            "id": "3223061879",
+                            "name": "Bbq Pulled Beef",
+                            "price": 500,
+                            "description": ""
+                          },
+                          {
+                            "id": "3750918089",
+                            "name": "Cajun",
+                            "price": 0,
+                            "description": ""
+                          },
+                          {
+                            "id": "87168173295669248",
+                            "name": "Chicken",
+                            "price": 1210,
+                            "description": null
+                          },
+                          {
+                            "id": "87168765334261760",
+                            "name": "Chia Seeds",
+                            "price": 525,
+                            "description": null
+                          }
+                        ]
+                      }
+                    },
+                    {
+                      "id": "2198563907",
+                      "name": "Add Extras:1",
+                      "min_selection": 0,
+                      "max_selection": 5,
+                      "select_type": "checkbox",
+                      "sort": 2,
+                      "modifiers": {
+                        "data": [
+                          {
+                            "id": "3750918089",
+                            "name": "Cajun",
+                            "price": 0,
+                            "description": ""
+                          },
+                          {
+                            "id": "2017683653",
+                            "name": "Chili con carne",
+                            "price": 400,
+                            "description": ""
+                          },
+                          {
+                            "id": "3481172882",
+                            "name": "Parmesan & truffle oil",
+                            "price": 400,
+                            "description": ""
+                          },
+                          {
+                            "id": "493670338",
+                            "name": "Plain",
+                            "price": 0,
+                            "description": ""
+                          },
+                          {
+                            "id": "3551325048",
+                            "name": "Zaatar",
+                            "price": 0,
+                            "description": ""
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "id": "87166407736954880",
+                "name": "Carrot Cake",
+                "url": "carrot-cake",
+                "price": 2200,
+                "description": null,
+                "has_modifier": false,
+                "photo": "https://chatfood.imgix.net/static/healthy-bites/menu/carrot-cake.jpg",
+                "photo_high": "https://chatfood.imgix.net/static/healthy-bites/menu/carrot-cake.jpg",
+                "note": "",
+                "customizations": {
+                  "data": []
+                }
+              }
+            ]
+          },
+          "schedules": {
+            "data": []
+          }
+        },
+        {
+          "id": "112584659489132544",
+          "name": "Best Sellers",
+          "url": "best-sellers",
+          "items": [],
+          "schedules": {
+            "data": []
+          }
+        },
+        {
+          "id": "183478007711797248",
+          "name": "🍕 New Items!",
+          "url": "new-items",
+          "items": [],
+          "schedules": {
+            "data": []
+          }
+        },
+        {
+          "id": "87171857937207296",
+          "name": "Juices",
+          "url": "juices",
+          "items": {
+            "data": [
+              {
+                "id": "87167200246501376",
+                "name": "Orange Juice",
+                "url": "orange-juice",
+                "price": 1250,
+                "description": null,
+                "has_modifier": false,
+                "photo": "https://chatfood.imgix.net/static/healthy-bites/menu/orange-juice.jpg",
+                "photo_high": "https://chatfood.imgix.net/static/healthy-bites/menu/orange-juice.jpg",
+                "note": "",
+                "customizations": {
+                  "data": []
+                }
+              }
+            ]
+          },
+          "schedules": {
+            "data": []
+          }
+        }
+      ]
+    }
+  }

@@ -1,0 +1,155 @@
+﻿{
+  "expires": "2020-08-22T22:09:29-06:00",
+  "basket": {
+    "address": null,
+    "channel": "chatfood",
+    "items": [
+      {
+        "lineId": "471b798d-c25b-4f73-a0a4-06aee4568a39",
+        "id": "175865885272317952",
+        "name": "Cottage Cheese Hunan Rice",
+        "quantity": 1,
+        "price": 3000,
+        "total": 3000,
+        "modifiers": []
+      },
+      {
+        "lineId": "f6a4f912-c673-44b6-87ce-b69a1a809b5e",
+        "id": "175865885272317952",
+        "name": "Cottage Cheese Hunan Rice",
+        "quantity": 1,
+        "price": 3000,
+        "total": 3000,
+        "modifiers": []
+      },
+      {
+        "lineId": "df6a9500-384b-455a-aa02-62684c3827ab",
+        "id": "175867409432059904",
+        "name": "Cottage Cheese Manchurian Noodles",
+        "quantity": 2,
+        "price": 3000,
+        "total": 6000,
+        "modifiers": []
+      },
+      {
+        "lineId": "76e88d42-56a8-4d0c-925b-dbaa5c04e156",
+        "id": "126586835865571328",
+        "name": "Noodles",
+        "quantity": 1,
+        "price": 3700,
+        "total": 3700,
+        "modifiers": [
+          {
+            "id": "126588614145609728",
+            "category_id": "126592060026392576",
+            "price": 0,
+            "name": "Schezwan Sauce",
+            "selectType": "radio",
+            "quantity": 1,
+            "categorySort": 1
+          },
+          {
+            "id": "126589102027051008",
+            "category_id": "126592643278053376",
+            "price": 0,
+            "name": "Baby Corn",
+            "selectType": "checkbox",
+            "quantity": 1,
+            "categorySort": 2
+          },
+          {
+            "id": "126589150215409664",
+            "category_id": "126592643278053376",
+            "price": 0,
+            "name": "Thai Basil",
+            "selectType": "checkbox",
+            "quantity": 1,
+            "categorySort": 2
+          },
+          {
+            "id": "126588089060827136",
+            "category_id": "126587832138600448",
+            "price": 2800,
+            "name": "Egg less Noodles",
+            "selectType": "radio",
+            "quantity": 1,
+            "categorySort": 3
+          },
+          {
+            "id": "126590121654099968",
+            "category_id": "126597222610771968",
+            "price": 900,
+            "name": "Tofu",
+            "selectType": "checkbox",
+            "quantity": 1,
+            "categorySort": 4
+          }
+        ]
+      },
+      {
+        "lineId": "df7d2c11-069d-4ea5-b293-f1cc69d0ebd8",
+        "id": "2537799949",
+        "name": "Chilli Chicken Dry",
+        "quantity": 1,
+        "price": 3400,
+        "total": 3400,
+        "modifiers": []
+      },
+      {
+        "lineId": "b3c010aa-543d-4b5b-b6bb-f8604c901bb5",
+        "id": "126586835865571328",
+        "name": "Noodles",
+        "quantity": 3,
+        "price": 2800,
+        "total": 8400,
+        "modifiers": [
+          {
+            "id": "126588793812815872",
+            "category_id": "126592060026392576",
+            "price": 0,
+            "name": "Manchurian Sauce",
+            "selectType": "radio",
+            "quantity": 1,
+            "categorySort": 1
+          },
+          {
+            "id": "126589343308582912",
+            "category_id": "126592643278053376",
+            "price": 0,
+            "name": "Carrots",
+            "selectType": "checkbox",
+            "quantity": 1,
+            "categorySort": 2
+          },
+          {
+            "id": "126588089060827136",
+            "category_id": "126587832138600448",
+            "price": 2800,
+            "name": "Egg less Noodles",
+            "selectType": "radio",
+            "quantity": 1,
+            "categorySort": 3
+          }
+        ]
+      }
+    ],
+    "note": null,
+    "orderDateLabel": "today",
+    "orderDate": "2020-08-22",
+    "orderTime": "12:00",
+    "orderingService": "delivery",
+    "paymentMethod": {},
+    "selectedArea": {
+      "id": "65835be1-c85d-11e9-90f7-027f5aa0be2e",
+      "name": "Al Aman",
+      "url": "al-aman",
+      "city": "Abu Dhabi"
+    },
+    "useRewardPoints": false
+  },
+  "signup": {
+    "data": null,
+    "error": null,
+    "loading": false
+  }
+}

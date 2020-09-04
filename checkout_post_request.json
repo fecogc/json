@@ -1,0 +1,101 @@
+{
+  "ordering_service": "pickup",
+  "user_id": "4ee7cec3-44f4-4d02-9605-cdff3d5bb5d5",
+  "payment_method": {
+    "type": "cash_delivery"
+  },
+  "notes": null,
+  "scheduled_to": null,
+  "delivery_date": "2020-08-22",
+  "delivery_time": "ASAP",
+  "items": [
+    {
+      "lineId": "6fb075d9-b2a9-4156-a9de-fcc1a4d63448",
+      "id": "87166799308787712",
+      "name": "Italian Salad",
+      "quantity": 1,
+      "price": 4000,
+      "total": 4000,
+      "modifiers": [
+        {
+          "id": "87168101757620224",
+          "category_id": "87169217996132352",
+          "price": 600,
+          "name": "Parmesan",
+          "selectType": "checkbox",
+          "quantity": 1,
+          "categorySort": 1
+        }
+      ]
+    },
+    {
+      "lineId": "1606597e-08ff-4867-893c-db3c3cfb458c",
+      "id": "87166977088557056",
+      "name": "Lentil Salad",
+      "quantity": 1,
+      "price": 4100,
+      "total": 4100,
+      "modifiers": [
+        {
+          "id": "87168101757620224",
+          "category_id": "87169217996132352",
+          "price": 600,
+          "name": "Parmesan",
+          "selectType": "multiple",
+          "quantity": 1,
+          "categorySort": 1
+        }
+      ]
+    },
+    {
+      "lineId": "af57bcc4-0315-4075-a57a-5f236807129a",
+      "id": "87167268185837568",
+      "name": "Quinoa Tabbouleh Salad",
+      "quantity": 1,
+      "price": 4730,
+      "total": 4730,
+      "modifiers": [
+        {
+          "id": "87170102151221248",
+          "category_id": "87169755726876672",
+          "price": 800,
+          "name": "Side Salad",
+          "selectType": "radio",
+          "quantity": 1,
+          "categorySort": 1
+        },
+        {
+          "id": "87168325079142400",
+          "category_id": "87169647375421440",
+          "price": 630,
+          "name": "Avocado",
+          "selectType": "checkbox",
+          "quantity": 1,
+          "categorySort": 2
+        }
+      ]
+    },
+    {
+      "lineId": "5890f073-d4a3-4036-82e6-ee704ec952e4",
+      "id": "87166723991670784",
+      "name": "Chocolate Cake",
+      "quantity": 1,
+      "price": 1800,
+      "total": 1800,
+      "modifiers": [
+        {
+          "id": "3750918089",
+          "category_id": "2198563907",
+          "price": 0,
+          "name": "Cajun",
+          "selectType": "checkbox",
+          "quantity": 1,
+          "categorySort": 2
+        }
+      ]
+    }
+  ],
+  "voucher_id": null,
+  "channel": "chatfood",
+  "use_reward_points": false
+}
